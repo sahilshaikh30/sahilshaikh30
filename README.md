@@ -13,7 +13,12 @@ Python developer in Mumbai, India, learning data analytics and AI/ML by building
 **Currently learning:** SQL, pandas, data analysis, machine learning basics
 
 ## Projects
-I'm uploading my projects now, and the featured ones will be pinned on my profile soon. Some have known issues, which I document in each README and fix over time.
+- [Event Ticket Booking System](https://github.com/sahilshaikh30/event-ticket-booking-system): menu-driven console app for booking and cancelling tickets, with reports
+- [Quiz Engine](https://github.com/sahilshaikh30/quiz-engine): multiple-choice quiz with scoring and a performance report
+- [SpendSense](https://github.com/sahilshaikh30/spendsense): monthly budget script that reports spending by category
+- [Python Learning](https://github.com/sahilshaikh30/python-learning): practice scripts on basics, games, and OOP
+
+Each repo lists its known issues and planned improvements, and I fix them over time.
 
 ## Connect with me
 [LinkedIn](https://www.linkedin.com/in/sahilshaikhml)
